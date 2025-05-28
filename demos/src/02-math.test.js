@@ -1,4 +1,3 @@
-// Import math functions from the external module
 const {sum, multiply, divide, average} = require('./02-math.js');
 
 test('1 + 2 should equal 3', () => {
